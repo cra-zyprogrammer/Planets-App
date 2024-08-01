@@ -1,2 +1,2 @@
 # Planets-App
-Advancing ListViews and Adaptors
+Applying ListViews and Adaptors 
